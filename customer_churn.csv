@@ -1,0 +1,501 @@
+tenure_months,monthly_charges,contract,churn
+7,85.19,Month-to-month,Yes
+55,106.75,Month-to-month,Yes
+47,65.39,Month-to-month,Yes
+32,44.78,Month-to-month,No
+31,43.67,One year,Yes
+61,94.6,Month-to-month,No
+7,101.66,Month-to-month,Yes
+50,30.53,Two year,No
+15,26.66,Month-to-month,No
+7,79.44,Month-to-month,No
+38,34.62,One year,Yes
+70,102.47,Month-to-month,No
+53,51.03,Month-to-month,No
+55,34.39,Month-to-month,No
+51,112.1,Two year,No
+56,36.55,Month-to-month,No
+37,48.47,Month-to-month,Yes
+10,35.36,Month-to-month,No
+60,31.55,Month-to-month,No
+32,22.11,One year,No
+36,25.54,Month-to-month,No
+27,37.46,One year,No
+13,25.34,One year,No
+66,79.11,Two year,No
+56,88.07,Month-to-month,Yes
+46,59.36,Two year,No
+29,51.8,One year,No
+59,70.45,Month-to-month,Yes
+39,107.5,One year,No
+32,105.11,Two year,No
+32,24.35,Month-to-month,No
+17,38.15,Two year,No
+7,43.67,Month-to-month,Yes
+40,44.94,One year,No
+64,77.12,Two year,No
+5,61.63,Month-to-month,No
+61,24.93,Two year,No
+59,57.36,Month-to-month,No
+20,72.38,One year,No
+45,30.17,One year,No
+12,103.35,Month-to-month,Yes
+54,25.2,Month-to-month,No
+50,112.48,Month-to-month,Yes
+26,29.91,Month-to-month,Yes
+5,104.36,Month-to-month,Yes
+69,110.27,Month-to-month,Yes
+32,117.96,Month-to-month,Yes
+64,100.2,Month-to-month,Yes
+49,97.95,One year,No
+56,84.25,One year,No
+54,97.9,One year,No
+14,33.46,Month-to-month,No
+26,73.61,Two year,No
+34,71.42,One year,No
+36,105.76,Month-to-month,No
+4,66.28,Month-to-month,No
+39,58.51,One year,No
+11,83.96,Month-to-month,Yes
+53,46.65,Month-to-month,Yes
+49,33.98,Two year,No
+66,67.79,Month-to-month,No
+53,61.69,Month-to-month,No
+27,43.26,Two year,No
+69,56.75,One year,Yes
+30,56.64,Month-to-month,Yes
+24,52.75,Two year,No
+65,57.95,Two year,No
+27,88.57,Month-to-month,Yes
+6,49.69,One year,No
+34,114.89,Month-to-month,No
+57,111.63,Month-to-month,Yes
+14,68.09,One year,No
+33,52.84,Month-to-month,Yes
+10,73.54,One year,No
+49,104.86,Two year,No
+34,85.26,Month-to-month,No
+24,100.44,One year,Yes
+17,73.27,Month-to-month,Yes
+41,83.29,Two year,No
+48,48.82,Month-to-month,Yes
+67,93.49,One year,No
+32,40.24,One year,No
+12,89.48,Month-to-month,Yes
+60,106.07,One year,No
+45,33.21,One year,No
+50,81.44,One year,No
+7,29.51,One year,Yes
+23,92.57,Two year,No
+55,28.45,Month-to-month,No
+60,113.59,Month-to-month,Yes
+31,33.74,Month-to-month,Yes
+58,115.89,One year,No
+60,100.09,Month-to-month,No
+28,79.37,Month-to-month,Yes
+64,98.26,Month-to-month,No
+21,99.51,Two year,No
+18,114.6,Month-to-month,Yes
+49,45.34,One year,No
+46,79.01,Month-to-month,Yes
+10,29.5,Two year,No
+60,81.62,Month-to-month,No
+15,37.13,Month-to-month,No
+58,76.5,Two year,No
+1,77.24,Two year,No
+57,66.6,Month-to-month,No
+56,72.26,Month-to-month,Yes
+56,96.39,One year,No
+48,99.92,Two year,No
+34,69.22,Month-to-month,No
+51,79.96,Month-to-month,Yes
+20,113.12,One year,No
+56,31.97,One year,No
+40,31.71,One year,No
+33,28.77,One year,Yes
+36,85.79,Month-to-month,Yes
+41,61.86,Two year,No
+3,97.43,Two year,Yes
+10,87.12,One year,Yes
+18,53.36,Month-to-month,Yes
+9,109.84,Month-to-month,Yes
+32,96.25,One year,Yes
+48,47.05,Month-to-month,No
+47,56.42,Two year,No
+34,51.44,Month-to-month,No
+61,35.76,One year,No
+41,34.78,Two year,No
+6,113.61,Month-to-month,Yes
+55,63.79,Month-to-month,No
+41,58.33,One year,No
+46,92.97,One year,No
+41,75.3,Month-to-month,Yes
+40,113.61,One year,Yes
+7,98.03,Two year,No
+40,67.94,Month-to-month,No
+57,57.64,Month-to-month,No
+22,118.66,Month-to-month,Yes
+43,91.78,Month-to-month,No
+3,115.12,Month-to-month,Yes
+25,31.85,Month-to-month,No
+32,105.05,One year,Yes
+70,83.71,Month-to-month,No
+16,32.19,Two year,No
+20,78.83,Month-to-month,Yes
+30,88.61,Month-to-month,Yes
+71,21.23,One year,No
+61,65.43,Two year,No
+3,102.54,Month-to-month,Yes
+17,49.54,Month-to-month,No
+59,65.85,Month-to-month,No
+5,64.23,Month-to-month,Yes
+61,50.19,Month-to-month,No
+20,111.84,Month-to-month,Yes
+66,98.13,Month-to-month,No
+21,31.06,Month-to-month,Yes
+31,119.7,Two year,Yes
+47,107.92,One year,No
+9,48.39,Month-to-month,No
+40,103.69,Month-to-month,Yes
+36,30.64,Month-to-month,No
+56,119.91,Month-to-month,No
+71,86.57,One year,No
+48,85.01,Two year,No
+30,29.04,Two year,No
+29,109.7,Two year,No
+30,22.9,Two year,No
+58,44.08,Two year,No
+23,34.3,Month-to-month,No
+12,97.68,Month-to-month,Yes
+24,39.82,Month-to-month,No
+2,111.06,One year,No
+8,85.63,Month-to-month,Yes
+7,23.62,Two year,No
+55,20.54,One year,No
+52,25.17,Month-to-month,No
+50,80.59,Month-to-month,Yes
+33,100.15,Month-to-month,Yes
+51,43.86,Month-to-month,Yes
+12,104.94,Two year,Yes
+64,25.72,One year,No
+36,100.1,One year,No
+67,112.78,Month-to-month,No
+11,97.21,Month-to-month,Yes
+36,89.81,Month-to-month,Yes
+50,103.8,One year,Yes
+36,24.02,One year,No
+32,40.18,Month-to-month,No
+12,32.49,Two year,No
+28,70.45,Month-to-month,Yes
+17,94.52,Two year,No
+22,83.0,Month-to-month,No
+49,105.11,Month-to-month,Yes
+45,35.52,Two year,No
+44,93.46,Month-to-month,Yes
+26,39.3,Month-to-month,Yes
+69,47.08,Month-to-month,No
+7,90.99,Month-to-month,Yes
+25,118.02,One year,No
+9,81.15,Two year,No
+25,25.45,Two year,No
+69,81.63,Month-to-month,Yes
+27,24.24,Month-to-month,No
+65,108.41,Month-to-month,No
+36,90.96,Month-to-month,No
+50,37.31,Month-to-month,No
+33,29.17,Two year,No
+19,38.35,Two year,No
+55,118.0,One year,No
+69,65.86,Month-to-month,No
+19,98.41,Month-to-month,No
+56,83.64,Month-to-month,Yes
+19,77.24,Month-to-month,No
+51,34.51,Month-to-month,No
+57,114.6,Month-to-month,Yes
+32,50.13,Month-to-month,Yes
+53,77.8,Two year,No
+20,89.98,Month-to-month,Yes
+6,84.92,Two year,No
+7,114.06,Month-to-month,Yes
+32,34.84,One year,No
+65,70.84,Month-to-month,Yes
+10,60.4,Month-to-month,No
+33,67.42,Month-to-month,Yes
+50,31.92,Month-to-month,Yes
+15,33.41,Two year,No
+52,47.81,Month-to-month,No
+22,50.47,One year,No
+58,62.79,Month-to-month,No
+42,81.1,Month-to-month,No
+39,83.46,Month-to-month,Yes
+13,61.18,Month-to-month,Yes
+33,60.88,Two year,No
+61,41.76,Two year,No
+2,78.83,One year,No
+54,51.7,Month-to-month,Yes
+35,23.61,Month-to-month,No
+52,61.84,Two year,No
+48,67.41,Month-to-month,No
+31,42.56,Month-to-month,No
+22,77.25,Month-to-month,No
+45,76.58,One year,No
+10,90.2,One year,Yes
+42,84.79,One year,No
+7,85.24,One year,No
+47,51.62,Month-to-month,No
+45,98.74,Two year,No
+6,74.91,Month-to-month,Yes
+54,63.14,One year,No
+30,82.6,Month-to-month,Yes
+56,56.07,Two year,No
+3,71.27,Month-to-month,Yes
+13,93.67,Month-to-month,Yes
+36,108.64,Month-to-month,No
+14,112.11,Month-to-month,Yes
+24,70.36,Month-to-month,Yes
+47,72.03,One year,No
+11,99.99,Month-to-month,Yes
+49,51.45,Two year,No
+8,103.74,Month-to-month,Yes
+13,69.41,One year,Yes
+42,31.59,Month-to-month,No
+57,27.21,One year,No
+13,104.2,One year,Yes
+22,25.56,Month-to-month,No
+66,48.06,Two year,No
+71,53.41,Month-to-month,No
+42,37.3,Month-to-month,Yes
+32,51.39,One year,Yes
+25,94.27,Two year,No
+44,21.47,Month-to-month,Yes
+42,102.72,Month-to-month,Yes
+21,105.65,Two year,No
+2,57.23,One year,No
+11,35.36,Two year,No
+69,80.08,Month-to-month,No
+30,31.97,One year,No
+35,56.49,Month-to-month,Yes
+34,115.84,Two year,No
+56,119.55,Month-to-month,Yes
+5,97.21,One year,Yes
+6,51.1,Month-to-month,Yes
+20,88.77,One year,Yes
+35,90.54,One year,Yes
+48,58.78,Month-to-month,No
+35,84.09,Two year,No
+32,21.07,Month-to-month,Yes
+67,40.91,One year,No
+12,72.51,Month-to-month,No
+41,36.38,Month-to-month,No
+39,36.59,Month-to-month,No
+34,103.63,Month-to-month,Yes
+58,118.91,Month-to-month,No
+19,75.6,One year,Yes
+68,103.91,One year,No
+24,119.03,One year,Yes
+39,34.16,Month-to-month,No
+37,64.82,Month-to-month,Yes
+61,59.26,Month-to-month,No
+32,28.0,One year,No
+21,95.53,Two year,No
+2,63.38,Month-to-month,Yes
+26,66.93,One year,Yes
+59,35.07,Month-to-month,No
+1,38.09,Month-to-month,Yes
+64,110.71,Month-to-month,Yes
+39,24.46,Month-to-month,Yes
+10,43.29,One year,No
+22,49.21,Two year,No
+40,69.02,Month-to-month,No
+23,78.64,Month-to-month,Yes
+8,69.33,One year,No
+48,28.41,Two year,No
+48,44.37,One year,No
+9,104.36,Month-to-month,No
+20,83.76,One year,No
+18,84.91,Month-to-month,No
+47,87.02,Two year,No
+52,96.29,Month-to-month,Yes
+52,25.81,One year,Yes
+67,56.66,Month-to-month,No
+55,73.95,Month-to-month,No
+23,53.85,Two year,No
+8,104.45,One year,Yes
+44,68.26,Month-to-month,No
+66,96.86,Two year,No
+70,105.2,Two year,No
+17,70.48,Month-to-month,Yes
+17,110.96,Month-to-month,Yes
+3,78.71,Month-to-month,No
+11,105.03,One year,No
+40,54.06,Month-to-month,No
+39,69.88,Month-to-month,No
+27,73.14,Two year,No
+23,30.5,Two year,No
+59,59.86,Two year,No
+33,111.73,Two year,No
+58,83.08,One year,No
+69,37.75,One year,No
+23,53.89,One year,No
+15,39.16,Month-to-month,Yes
+68,22.48,Month-to-month,No
+46,112.75,Month-to-month,Yes
+21,64.82,One year,Yes
+45,50.75,Month-to-month,No
+37,79.85,Month-to-month,Yes
+65,20.73,One year,No
+19,47.8,Month-to-month,No
+71,90.3,Month-to-month,Yes
+67,83.38,Two year,No
+13,118.18,Two year,No
+12,82.04,Month-to-month,Yes
+38,67.75,Month-to-month,No
+4,96.14,Month-to-month,Yes
+22,110.33,One year,No
+31,92.07,Two year,No
+69,116.32,Month-to-month,Yes
+71,98.2,One year,No
+11,106.68,Month-to-month,No
+64,31.41,Month-to-month,No
+7,93.24,Two year,No
+54,64.01,Month-to-month,No
+61,75.31,Month-to-month,Yes
+64,85.41,Month-to-month,No
+16,116.98,One year,No
+64,118.46,Two year,No
+9,48.82,Two year,No
+37,93.38,Month-to-month,Yes
+34,95.0,Month-to-month,Yes
+23,54.65,One year,No
+2,32.39,Month-to-month,No
+55,24.09,Two year,No
+24,97.73,One year,Yes
+47,68.97,Month-to-month,No
+30,118.55,Two year,No
+27,66.5,Month-to-month,Yes
+63,117.79,Month-to-month,Yes
+7,61.16,One year,No
+53,99.37,Month-to-month,Yes
+54,28.48,One year,No
+27,75.55,One year,Yes
+19,100.21,Two year,No
+1,112.47,Two year,No
+67,102.26,Month-to-month,No
+68,23.7,Month-to-month,No
+18,57.27,One year,No
+3,24.87,Two year,No
+9,30.93,Month-to-month,Yes
+5,87.53,Month-to-month,Yes
+60,91.33,Month-to-month,No
+64,97.37,Month-to-month,Yes
+11,106.55,One year,No
+54,93.94,Month-to-month,No
+13,100.09,One year,Yes
+27,24.9,Two year,No
+43,43.45,Two year,No
+52,82.19,Month-to-month,Yes
+63,105.81,Month-to-month,No
+4,20.45,One year,No
+14,71.46,Two year,No
+20,87.73,Month-to-month,No
+23,22.96,Two year,No
+71,60.14,Month-to-month,No
+56,109.56,Two year,No
+23,87.16,Month-to-month,Yes
+69,43.77,Month-to-month,Yes
+36,105.28,Month-to-month,No
+36,54.8,Month-to-month,Yes
+31,105.33,Month-to-month,Yes
+11,49.89,Month-to-month,No
+67,79.03,Month-to-month,No
+1,59.69,One year,Yes
+13,47.48,Month-to-month,Yes
+17,108.66,One year,No
+20,38.76,Two year,No
+10,28.48,Month-to-month,Yes
+2,54.19,Month-to-month,No
+49,91.76,Two year,No
+69,100.74,Two year,No
+9,119.87,Month-to-month,Yes
+22,49.64,Two year,Yes
+36,60.79,Month-to-month,No
+66,33.68,Month-to-month,No
+50,77.49,One year,No
+55,119.76,Month-to-month,No
+42,90.09,One year,Yes
+30,79.52,Month-to-month,No
+15,59.24,One year,No
+62,111.53,Month-to-month,No
+58,69.69,Month-to-month,No
+2,33.44,Month-to-month,No
+51,56.54,Month-to-month,No
+6,26.72,One year,No
+53,40.2,Month-to-month,No
+59,21.77,Month-to-month,No
+10,65.33,Month-to-month,Yes
+31,83.45,Month-to-month,Yes
+9,54.33,Two year,No
+41,62.04,Month-to-month,No
+66,115.92,Two year,No
+6,95.2,Month-to-month,Yes
+29,74.09,One year,No
+70,48.45,Month-to-month,No
+22,109.7,Month-to-month,No
+10,43.51,Two year,No
+35,52.53,Two year,No
+37,110.91,Two year,No
+48,72.95,Month-to-month,No
+23,94.23,Month-to-month,Yes
+68,79.07,One year,No
+37,85.34,Month-to-month,No
+21,49.94,One year,No
+69,44.14,One year,No
+66,52.25,One year,No
+36,35.54,Two year,No
+2,107.43,One year,Yes
+43,48.32,Month-to-month,No
+40,76.15,Month-to-month,No
+11,99.2,One year,Yes
+46,98.38,Month-to-month,Yes
+60,63.84,Month-to-month,No
+8,67.63,Month-to-month,Yes
+52,119.47,One year,No
+10,87.46,Two year,No
+54,101.46,One year,No
+30,110.26,Month-to-month,No
+1,98.76,Month-to-month,Yes
+69,38.52,Month-to-month,No
+12,76.22,Month-to-month,Yes
+43,30.19,One year,No
+13,85.29,One year,No
+67,115.53,Month-to-month,No
+53,71.27,Month-to-month,Yes
+58,63.3,Month-to-month,Yes
+31,23.58,Two year,No
+34,115.98,One year,No
+46,30.3,Month-to-month,No
+56,24.11,Two year,No
+61,44.61,Month-to-month,No
+2,26.55,Month-to-month,No
+48,65.51,Two year,Yes
+8,71.61,Month-to-month,Yes
+21,51.26,Month-to-month,No
+59,25.1,One year,No
+18,31.16,Month-to-month,No
+57,58.45,One year,No
+33,26.05,Month-to-month,No
+17,89.82,Month-to-month,Yes
+24,40.7,Month-to-month,No
+38,50.21,Month-to-month,Yes
+55,59.41,Month-to-month,No
+44,61.66,Month-to-month,No
+67,20.17,Two year,No
+62,31.21,Month-to-month,No
+54,106.28,Month-to-month,Yes
+43,20.12,Month-to-month,No
+21,70.82,Month-to-month,No
+30,68.95,Month-to-month,No
+9,53.31,One year,No
+27,63.13,Month-to-month,Yes
+66,98.06,Two year,No
+31,104.12,Two year,No
